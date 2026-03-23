@@ -1,0 +1,1 @@
+# STEM-Image-Description-Survey
