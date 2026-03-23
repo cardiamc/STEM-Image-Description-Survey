@@ -1,6 +1,6 @@
 # Supplementary Material: A Systematic Survey on Image Description Techniques for STEM Domains
 
-**Notice:** *This repository has been prepared and anonymized specifically for the double-blind peer review process of the International Journal of Human-Computer Interaction (IJHCI).*
+**Notice:** *This repository has been prepared and anonymized specifically for the double-blind peer review process of the International Journal of Human-Computer Interaction.*
 
 ## Overview
 This repository contains the supplementary data and extraction files for the systematic survey on AI-driven image description techniques for STEM (Science, Technology, Engineering, and Mathematics) domains. 
@@ -9,20 +9,17 @@ In adherence to the PRISMA (Preferred Reporting Items for Systematic Reviews and
 
 ## Contents of this Repository
 
-The repository contains a single Excel workbook (`Supplementary_Material.xlsx`) divided into four sheets:
+The repository contains a Excel workbook (`Supplementary_Material.xlsx`) divided into 5 sheets:
 
-1. **Search_Protocol**: Details the exact search strings adapted for the specific syntax of the five academic databases queried (IEEE Xplore, ACM Digital Library, Scopus, Web of Science, and PubMed), along with the dates of execution (June 2025).
-2. **Included_Studies**: A complete list (with citations/DOIs) of the 20 primary studies included in the final qualitative and quantitative synthesis.
-3. **Excluded_Studies**: Details the report excluded during the full-text eligibility screening phase (n=1), alongside the specific exclusion criteria applied. 
-4. **Data_Extraction**: The full data extraction matrix used to analyze the 20 included studies. This sheet maps each paper against our predefined analytical dimensions (RQs):
-   - Target Visual Content (e.g., bar charts, mathematical equations)
-   - AI/ML Architecture (e.g., CNNs, Transformers, LLMs/VLMs)
-   - Description Modality & Interaction Style
-   - Datasets & Benchmarks used
-   - Evaluation Paradigm (Automated metrics vs. Human-centered evaluation)
+**1. Raw Search Results (Sheets 1-5):**
+The initial outputs of the search queries across the five selected databases. Each row represents a retrieved paper and includes metadata such as Title, Authors, DOI, and Abstract.
+- `IEEE`
+- `ACM`
+- `Scopus`
+- `WoS`
+- `PubMed`
 
-## Usage
-Researchers and reviewers are encouraged to download the `.xlsx` file to review the raw extraction data and the exact search strings used to generate the corpus for this study. 
+**2. Results (Sheet 6-7):**
+- **`Included_and_Excluded`**: A definitive list of the 20 primary studies included in the final qualitative and quantitative synthesis, as well as the 1 study excluded during the full-text eligibility screening phase.
+- **`Data_Extraction`**: The full data extraction matrix used to analyze the 20 included studies. This sheet maps each paper against our predefined analytical dimensions (RQs), including: Target Visual Content, AI/ML Architecture, Description Modality, Datasets, and Evaluation Paradigm.
 
-## License
-Upon acceptance of the manuscript, this repository will be made fully public with an appropriate open-source license and minted with a DOI to facilitate future reuse by the HCI and Accessibility research communities.
