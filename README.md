@@ -1,7 +1,5 @@
 # Supplementary Material: A Systematic Survey on Image Description Techniques for STEM Domains
 
-**Notice:** *This repository has been prepared and anonymized specifically for the double-blind peer review process of the International Journal of Human-Computer Interaction.*
-
 ## Overview
 This repository contains the supplementary data and extraction files for the systematic survey on AI-driven image description techniques for STEM (Science, Technology, Engineering, and Mathematics) domains. 
 
